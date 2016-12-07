@@ -3,7 +3,7 @@ Feature: BVCyD0SmNdName
 Check that story can be created.
 
 @SC_40718 @tag10 @tag11 @tag12
-Scenario Outline: myDM2zVHLUName
+Scenario Outline: yv5NNVaicWName
 Check that scenario can be updated.
 Given first
 When second
