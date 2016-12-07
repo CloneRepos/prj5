@@ -2,8 +2,8 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_40721 @tag1 @tag2 @tag3
-Scenario Outline: DlDT5PWiXTName
+@SC_40722 @tag1 @tag2 @tag3
+Scenario Outline: IXRrlOitDLName
 Check that scenario can be created.
 Given first
 When second
@@ -43,6 +43,19 @@ Table description yeah!
 
 @SC_40720 @tag4 @tag5 @tag6
 Scenario Outline: EBY8vFesITName
+Check that scenario can be created.
+Given first
+When second
+Then last <arg1> <arg2>
+
+Examples: TableName
+Table description yeah!
+|arg1|arg2|
+|123|456|
+|123|456|
+
+@SC_40721 @tag1 @tag2 @tag3
+Scenario Outline: DlDT5PWiXTName
 Check that scenario can be created.
 Given first
 When second
