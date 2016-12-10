@@ -2,19 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_40720 @tag4 @tag5 @tag6
-Scenario Outline: EBY8vFesITName
-Check that scenario can be created.
-Given first
-When second
-Then last <arg1> <arg2>
+@SC_40720 @bla1 @bla2 @bla3
+Scenario Outline: lNrwEPNCO3Name
+uUu3qaXQYDScenarioDescription
+Given firthtyst
+When sehfigcond
+Then larthst <arg1> <arg2>
 
-Examples: TableName
-Table description yeah!
+Examples: bPnFLK4JvQTable
+ewDjG4GvUfTableDescription
 |arg1|arg2|
-|123|456|
-|123|456|
-
+|456|123|
+|456|123|
 
 @SC_40721 @tag1 @tag2 @tag3
 Scenario Outline: DlDT5PWiXTName
@@ -99,6 +98,7 @@ Table description yeah!
 |123|456|
 |123|456|
 
+
 @SC_42917 @tag4 @tag5 @tag6
 Scenario Outline: B2YPOmJWymName
 Description scenario yeah!
@@ -111,6 +111,7 @@ Table description yeah!
 |arg1|arg2|
 |123|456|
 |123|456|
+
 
 @SC_42918 @tag1 @tag2 @tag3
 Scenario Outline: y909lwZTdIName
@@ -125,6 +126,7 @@ Table description yeah!
 |123|456|
 |123|456|
 
+
 @SC_44203 @tag1 @tag2 @tag3
 Scenario Outline: EgTCUuAQdBName
 Description scenario yeah!
@@ -137,6 +139,7 @@ Table description yeah!
 |arg1|arg2|
 |123|456|
 |123|456|
+
 
 @SC_44204 @tag4 @tag5 @tag6
 Scenario Outline: Opyz4ue7n5Name
