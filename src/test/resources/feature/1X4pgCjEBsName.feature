@@ -2,15 +2,15 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_40722 @bla1 @bla2 @bla3
-Scenario Outline: LPAm38nD3XName
-qbUeaa57xTScenarioDescription
-Given firthtyst
-When sehfigcond
-Then larthst <arg1> <arg2>
+@SC_40722 @BUOK @8NQH @JQIK
+Scenario Outline: 2VeFxYcDWaName
+hejsGKyr5pScenarioDescription
+Given amiGnNOSg9Step
+When OmWUlx3oGmStep
+Then 9CVBy6s2HYStep<arg1> <arg2>
 
-Examples: 74bXsjhPWkTable
-hOlI5ZD6xPTableDescription
+Examples: hKwkzU4huHTable
+mk3ccD6veWTableDescription
 |arg1|arg2|
 |456|123|
 |456|123|
