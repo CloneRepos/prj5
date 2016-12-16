@@ -7,6 +7,19 @@ Background:
 Given first
 When second
 
+@SC_49579 @tag1 @tag2 @tag3
+Scenario Outline: EBbXO4WnswName
+Description scenario yeah!
+Given first
+When second
+Then last <arg1> <arg2>
+
+Examples: GRtpy7b1tGTable
+Table description yeah!
+|arg1|arg2|
+|123|456|
+|123|456|
+
 @SC_40725 @S1UX @WR7O @GNTB
 Scenario Outline: Hcrtc9B2TGName
 ENaKpxm3PFScenarioDescription
