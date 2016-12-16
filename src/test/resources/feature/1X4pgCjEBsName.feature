@@ -7,18 +7,18 @@ Background:
 Given first
 When second
 
-@SC_47559 @LXYO @MAMX @LG5Z
-Scenario Outline: wcDth2OJx6Name
-Iuw2lWr1jVScenarioDescription
-Given ntfTSrXCRnStep
-When GBKHMCe4YCStep
-Then jqXhGgjLreStep <arg1> <arg2>
+@SC_49579 @BIM4 @U3FK @OYEA
+Scenario Outline: Orx07wqg02Name
+GK8tknwbJQScenarioDescription
+Given GRUtHDlAtcStep
+When e0QNcDmgdoStep
+Then 6lUHtIWKSBStep <arg1> <arg2>
 
-Examples: x1xRCAViEdTable
-Z06QJRWlpvTableDescription
+Examples: z42foXa9RXTable
+R20lFkArqrTableDescription
 |arg1|arg2|
-|DKTE|1NUK|
-|DKTE|1NUK|
+|QIPW|TAB4|
+|QIPW|TAB4|
 
 @SC_42916 @IBBP @Q3LA @RZL7
 Scenario Outline: 04HSMlbvssName
@@ -230,18 +230,18 @@ QmbTp3i8sjTableDescription
 |WI0H|UTJQ|
 
 
-@SC_49579 @tag1 @tag2 @tag3
-Scenario Outline: EBbXO4WnswName
-Description scenario yeah!
-Given first
-When second
-Then last <arg1> <arg2>
+@SC_47559 @LXYO @MAMX @LG5Z
+Scenario Outline: wcDth2OJx6Name
+Iuw2lWr1jVScenarioDescription
+Given ntfTSrXCRnStep
+When GBKHMCe4YCStep
+Then jqXhGgjLreStep <arg1> <arg2>
 
-Examples: GRtpy7b1tGTable
-Table description yeah!
+Examples: x1xRCAViEdTable
+Z06QJRWlpvTableDescription
 |arg1|arg2|
-|123|456|
-|123|456|
+|DKTE|1NUK|
+|DKTE|1NUK|
 
 
 @SC_49580 @tag4 @tag5 @tag6
