@@ -2,11 +2,6 @@
 Feature: kWDAKpNNbQName
 Check that story can be created.
 
-Background: 
-
-Given first
-When second
-
 @SC_45221 @BVGT @PUBM @ZYR7
 Scenario Outline: g6sJystbKgName
 vfskWzoJK7ScenarioDescription
