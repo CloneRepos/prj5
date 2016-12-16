@@ -7,33 +7,6 @@ Background:
 Given first
 When second
 
-@SC_49580 @tag4 @tag5 @tag6
-Scenario Outline: puRQznk1eCName
-Description scenario yeah!
-Given first
-When second
-Then last <arg1> <arg2>
-
-Examples: 0ea5sx0BFNTable
-Table description yeah!
-|arg1|arg2|
-|123|456|
-|123|456|
-
-@SC_40725 @S1UX @WR7O @GNTB
-Scenario Outline: Hcrtc9B2TGName
-ENaKpxm3PFScenarioDescription
-Given RyBfsf44f2Step
-When feVid6yCGPStep
-Then FQ1bLLyXfYStep <arg1> <arg2>
-
-Examples: 8Vl7GGruz9Table
-2uJ6CrG3BMTableDescription
-|arg1|arg2|
-|JARH|ASTZ|
-|JARH|ASTZ|
-
-
 @SC_42916 @RYMS @BTGZ @6Y8G
 Scenario Outline: wBJpHLMV5hName
 hhGHEaILkuScenarioDescription
@@ -265,6 +238,19 @@ When second
 Then last <arg1> <arg2>
 
 Examples: GRtpy7b1tGTable
+Table description yeah!
+|arg1|arg2|
+|123|456|
+|123|456|
+
+@SC_49580 @tag4 @tag5 @tag6
+Scenario Outline: puRQznk1eCName
+Description scenario yeah!
+Given first
+When second
+Then last <arg1> <arg2>
+
+Examples: 0ea5sx0BFNTable
 Table description yeah!
 |arg1|arg2|
 |123|456|
