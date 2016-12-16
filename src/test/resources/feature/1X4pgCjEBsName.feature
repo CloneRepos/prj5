@@ -7,6 +7,19 @@ Background:
 Given first
 When second
 
+@SC_42917 @ETLA @IO7C @PIZ2
+Scenario Outline: wwmIrv6TLeName
+rSVAWXfAplScenarioDescription
+Given LaPdIrOI8qStep
+When mwtMEgWgn8Step
+Then JLz1QScXh6Step <arg1> <arg2>
+
+Examples: RZ3clmpDTUTable
+uY1G0N9QKKTableDescription
+|arg1|arg2|
+|MGGR|7TF8|
+|MGGR|7TF8|
+
 @SC_42916 @WJHT @9RQI @GVSU
 Scenario Outline: fAkAsaIUk4Name
 g7C72swup6ScenarioDescription
@@ -19,19 +32,6 @@ FD2zvw8kXkTableDescription
 |arg1|arg2|
 |MHHE|NFT3|
 |MHHE|NFT3|
-
-@SC_42917 @XDDH @IKVZ @ZLT3
-Scenario Outline: 7aIIBLXkf6Name
-BosTX7jO5YScenarioDescription
-Given RUryDqqCLmStep
-When MeLtC9AYU1Step
-Then 9OzamKsYGTStep <arg1> <arg2>
-
-Examples: bvwhCUS2cYTable
-iDmxbxoKkZTableDescription
-|arg1|arg2|
-|CDVE|CJDS|
-|CDVE|CJDS|
 
 
 @SC_42918 @LZST @T7OU @AGLI
