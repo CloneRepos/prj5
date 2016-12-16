@@ -7,19 +7,18 @@ Background:
 Given first
 When second
 
-@SC_42916 @RYMS @BTGZ @6Y8G
-Scenario Outline: wBJpHLMV5hName
-hhGHEaILkuScenarioDescription
-Given uroJeVpf6rStep
-When JNuAgoyIbXStep
-Then OgdOopzoaiStep <arg1> <arg2>
+@SC_42916 @IBBP @Q3LA @RZL7
+Scenario Outline: 04HSMlbvssName
+WJd2Zn53dnScenarioDescription
+Given 82FXBTei6zStep
+When unboOXjwrXStep
+Then A0WweGSo63Step <arg1> <arg2>
 
-Examples: epZFFDgW2XTable
-L1vYS3mKTbTableDescription
+Examples: z9AOK4n9nhTable
+8Es43zP0i4TableDescription
 |arg1|arg2|
-|AYXI|GAU1|
-|AYXI|GAU1|
-
+|HAMS|XCGI|
+|HAMS|XCGI|
 
 @SC_42917 @BMCX @I6TM @AVJ8
 Scenario Outline: RyOwveWlEZName
@@ -230,6 +229,7 @@ RLN5DsrQD6TableDescription
 |HP3N|0RQC|
 |HP3N|0RQC|
 
+
 @SC_49579 @tag1 @tag2 @tag3
 Scenario Outline: EBbXO4WnswName
 Description scenario yeah!
@@ -242,6 +242,7 @@ Table description yeah!
 |arg1|arg2|
 |123|456|
 |123|456|
+
 
 @SC_49580 @tag4 @tag5 @tag6
 Scenario Outline: puRQznk1eCName
