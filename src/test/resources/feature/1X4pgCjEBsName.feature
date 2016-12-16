@@ -7,14 +7,14 @@ Background:
 Given first
 When second
 
-@SC_49579 @tag1 @tag2 @tag3
-Scenario Outline: EBbXO4WnswName
+@SC_49580 @tag4 @tag5 @tag6
+Scenario Outline: puRQznk1eCName
 Description scenario yeah!
 Given first
 When second
 Then last <arg1> <arg2>
 
-Examples: GRtpy7b1tGTable
+Examples: 0ea5sx0BFNTable
 Table description yeah!
 |arg1|arg2|
 |123|456|
@@ -256,3 +256,16 @@ RLN5DsrQD6TableDescription
 |arg1|arg2|
 |HP3N|0RQC|
 |HP3N|0RQC|
+
+@SC_49579 @tag1 @tag2 @tag3
+Scenario Outline: EBbXO4WnswName
+Description scenario yeah!
+Given first
+When second
+Then last <arg1> <arg2>
+
+Examples: GRtpy7b1tGTable
+Table description yeah!
+|arg1|arg2|
+|123|456|
+|123|456|
