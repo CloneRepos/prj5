@@ -7,18 +7,18 @@ Background:
 Given first
 When second
 
-@SC_49579 @AQMK @C1Z8 @S3PZ
-Scenario Outline: Q9OgnlZcdVName
-LYDI6xAIoxScenarioDescription
-Given 2csyU2562MStep
-When uBijgWX8EtStep
-Then InOrqNnE9xStep <arg1> <arg2>
+@SC_49580 @BIEF @YRSV @RLOA
+Scenario Outline: 5LXS7oHYfCName
+S8QM7FjO7OScenarioDescription
+Given OX0obT1EeOStep
+When HWp9bJQm4EStep
+Then 6qAWg1C0J3Step <arg1> <arg2>
 
-Examples: bW8fcq8tWMTable
-F3TDWcMnD0TableDescription
+Examples: nCh6Kk3Sx7Table
+RmRIHAT0XWTableDescription
 |arg1|arg2|
-|SII4|EYNB|
-|SII4|EYNB|
+|X2QD|ERYS|
+|X2QD|ERYS|
 
 @SC_42916 @WJHT @9RQI @GVSU
 Scenario Outline: fAkAsaIUk4Name
@@ -244,15 +244,15 @@ IUerG7zBbgTableDescription
 |9RHR|MQX7|
 
 
-@SC_49580 @Y6HI @1UY5 @T13D
-Scenario Outline: ouMmfBavQvName
-zJn7jVPaugScenarioDescription
-Given Ig08TtITWFStep
-When sftdWJiFEzStep
-Then auYVBxVSXeStep <arg1> <arg2>
+@SC_49579 @AQMK @C1Z8 @S3PZ
+Scenario Outline: Q9OgnlZcdVName
+LYDI6xAIoxScenarioDescription
+Given 2csyU2562MStep
+When uBijgWX8EtStep
+Then InOrqNnE9xStep <arg1> <arg2>
 
-Examples: oEGORdNQHZTable
-1pgJhbjtf7TableDescription
+Examples: bW8fcq8tWMTable
+F3TDWcMnD0TableDescription
 |arg1|arg2|
-|K4GJ|PGMN|
-|K4GJ|PGMN|
+|SII4|EYNB|
+|SII4|EYNB|
