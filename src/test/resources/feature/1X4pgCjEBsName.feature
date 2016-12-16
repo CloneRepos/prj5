@@ -7,18 +7,18 @@ Background:
 Given first
 When second
 
-@SC_44204 @CSCM @EN5R @J5KS
-Scenario Outline: rD8xAJ7XYwName
-ALJMCndmfcScenarioDescription
-Given Eh6Chg4th2Step
-When acOuhOYMZaStep
-Then 3P1cZ0WxkCStep <arg1> <arg2>
+@SC_44316 @4DBU @1DKB @NDSF
+Scenario Outline: sGPGtS7Yq0Name
+oDMtFxYFBJScenarioDescription
+Given UARhkMVsdnStep
+When WpiqZPWI9oStep
+Then jawACdN8esStep <arg1> <arg2>
 
-Examples: mRRn9CuMi2Table
-srmjOwMg7WTableDescription
+Examples: 44N5DHbyYjTable
+AGakFgv0T1TableDescription
 |arg1|arg2|
-|XWYB|A4CX|
-|XWYB|A4CX|
+|U5SY|6KEP|
+|U5SY|6KEP|
 
 @SC_42916 @AWSX @JI4M @S9TG
 Scenario Outline: j4EP3faXASName
@@ -76,18 +76,18 @@ e1FgVbhpO1TableDescription
 |XVFK|EO1E|
 
 
-@SC_44316 @ZUYL @ZTXO @KLEF
-Scenario Outline: zHqk1boPZoName
-7cc1OL3kHJScenarioDescription
-Given PiKgvItTtuStep
-When MMW2dLk2rLStep
-Then qAaFXWZXbpStep <arg1> <arg2>
+@SC_44204 @CSCM @EN5R @J5KS
+Scenario Outline: rD8xAJ7XYwName
+ALJMCndmfcScenarioDescription
+Given Eh6Chg4th2Step
+When acOuhOYMZaStep
+Then 3P1cZ0WxkCStep <arg1> <arg2>
 
-Examples: sTIuMIBBMNTable
-4qfkPto4aOTableDescription
+Examples: mRRn9CuMi2Table
+srmjOwMg7WTableDescription
 |arg1|arg2|
-|BOFD|XCR1|
-|BOFD|XCR1|
+|XWYB|A4CX|
+|XWYB|A4CX|
 
 
 @SC_44317 @R7KZ @SNTD @CCXX
