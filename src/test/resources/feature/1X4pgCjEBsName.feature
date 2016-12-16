@@ -7,32 +7,18 @@ Background:
 Given first
 When second
 
-@SC_49580 @BIEF @YRSV @RLOA
-Scenario Outline: 5LXS7oHYfCName
-S8QM7FjO7OScenarioDescription
-Given OX0obT1EeOStep
-When HWp9bJQm4EStep
-Then 6qAWg1C0J3Step <arg1> <arg2>
+@SC_42916 @9XDX @ZAAV @4F5E
+Scenario Outline: 0VZVjuMXLXName
+m8XaY7HSd9ScenarioDescription
+Given YAmuAq2xbMStep
+When ALej5stdSlStep
+Then pGxKF0hKorStep <arg1> <arg2>
 
-Examples: nCh6Kk3Sx7Table
-RmRIHAT0XWTableDescription
+Examples: 3GRTZBvzT6Table
+xNqhddqGGATableDescription
 |arg1|arg2|
-|X2QD|ERYS|
-|X2QD|ERYS|
-
-@SC_42916 @WJHT @9RQI @GVSU
-Scenario Outline: fAkAsaIUk4Name
-g7C72swup6ScenarioDescription
-Given blbeyMv6S2Step
-When gIv0Ul4vltStep
-Then TcZmsU5aCMStep <arg1> <arg2>
-
-Examples: UPVakD0w3QTable
-FD2zvw8kXkTableDescription
-|arg1|arg2|
-|MHHE|NFT3|
-|MHHE|NFT3|
-
+|IC76|SRWV|
+|IC76|SRWV|
 
 @SC_42917 @ETLA @IO7C @PIZ2
 Scenario Outline: wwmIrv6TLeName
@@ -256,3 +242,17 @@ F3TDWcMnD0TableDescription
 |arg1|arg2|
 |SII4|EYNB|
 |SII4|EYNB|
+
+
+@SC_49580 @BIEF @YRSV @RLOA
+Scenario Outline: 5LXS7oHYfCName
+S8QM7FjO7OScenarioDescription
+Given OX0obT1EeOStep
+When HWp9bJQm4EStep
+Then 6qAWg1C0J3Step <arg1> <arg2>
+
+Examples: nCh6Kk3Sx7Table
+RmRIHAT0XWTableDescription
+|arg1|arg2|
+|X2QD|ERYS|
+|X2QD|ERYS|
