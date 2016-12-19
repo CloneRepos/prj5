@@ -2,6 +2,11 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
+Background: 
+
+Given first
+When second
+
 @SC_49581 @AWSX @JI4M @S9TG
 Scenario Outline: j4EP3faXASName
 j7w6exY8EoScenarioDescription
