@@ -1,3 +1,3 @@
-@ST_37001 @tag1 @tag2 @tag3
+@ST_37423 @tag1 @tag2 @tag3
 Feature: NuaBP0u1GyName
 Check that story can be created.
